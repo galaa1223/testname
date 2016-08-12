@@ -8,3 +8,5 @@
 echo "Hello World Git";
 echo "galaa";
 echo "My name is galaa";
+
+echo "New Commit";
